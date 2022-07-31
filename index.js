@@ -4,6 +4,7 @@ let s=document.getElementById('second')
 
 setInterval(setClock,1000)
 
+
 function setClock(){
     let time=new Date()
 

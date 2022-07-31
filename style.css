@@ -72,6 +72,7 @@ body{
     height: 45%;
     background-color: red;
 }
+
 .clock .hand.circle{
     background-color: black;
     width: 15px;
